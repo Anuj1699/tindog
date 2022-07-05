@@ -431,9 +431,6 @@ nav .menu-btn img{
 }
 @media (max-width: 650px)
 {
-    html {
-        font-size: 20%;
-    }
     .header{
         display: block;
         padding-left: 0;
